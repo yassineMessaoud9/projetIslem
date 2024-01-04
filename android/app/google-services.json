@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923919287770",
+    "project_id": "projeislem",
+    "storage_bucket": "projeislem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923919287770:android:bb7ea5058a05336495ace3",
+        "android_client_info": {
+          "package_name": "com.example.testtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrN--wwp0Ogppoi-BjbENfdgmst7mjvDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
